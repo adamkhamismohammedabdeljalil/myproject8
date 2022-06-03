@@ -1,2 +1,4 @@
-
+this is the firt line
 this is another line on file b
+this is the third line
+my name is adam
